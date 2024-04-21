@@ -29,14 +29,15 @@ Athena is a decentralized cloud storage solution that leverages React.js and Eth
 ## Getting Started
 
 1. **Clone the repository:**
+   
    ```
    git clone https://github.com/piyusharyan/athena.git
 
-2. **Install the Dependencies**
-  ```
-  npm i
-  ```
+3. **Install the Dependencies**
+   
+   ```
+   npm i
 3. **Run the Project**
-  ```
-  npm run dev
-  ```
+   
+   ```
+   npm run dev
